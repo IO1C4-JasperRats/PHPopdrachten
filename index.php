@@ -34,6 +34,22 @@ Bestandsnaam:   (index.php)
                 </li>
             </ul>
         </li>
+        <li>
+            Hoofdstuk 4
+            <ul>
+                <li>
+                    <a href="">Opdracht 4.1</a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            Hoofdstuk 5
+            <ul>
+                <li>
+                    <a href="">Opdracht 5.1</a>
+                </li>
+            </ul>
+        </li>
 
     </ul>
 </aside>
