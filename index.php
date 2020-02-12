@@ -22,7 +22,10 @@ Bestandsnaam:   (index.php)
             Hoofdstuk 2
             <ul>
                 <li>
-                    <a href="helloworld.php">Opdracht 2.1</a>
+                    <a href="Periode 3/hoofdstuk 2/opdracht 2.1/helloworld.php">Opdracht 2.1</a>
+                </li>
+                <li>
+                    <a href="Periode 3/hoofdstuk 2/opdracht 2.2/opdracht 2.2.php">Opdracht 2.2</a>
                 </li>
             </ul>
         </li>
@@ -57,3 +60,9 @@ Bestandsnaam:   (index.php)
 
 </body>
 </html>
+<?php
+
+header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+header("Cache-Control: post-check=0, pre-check=0", false);
+header("Pragma: no-cache");
+?>
