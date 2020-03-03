@@ -1,9 +1,11 @@
 <?php
-    include "includes/header.php";
-    include "includes/menu.php";
+include "../../../includes/header.php";
+include "../../../includes/menu.php";
+include "../variabelen.php";
+
 ?>
-</body>
-</html>
+    </body>
+    </html>
 
 <?php
 
