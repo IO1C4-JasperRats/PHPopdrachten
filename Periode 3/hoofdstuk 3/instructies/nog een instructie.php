@@ -2,7 +2,7 @@
 /*
  * instructie datum :P
  */
-    date_default_timezone_set("EST");
+    date_default_timezone_set("WET");
 echo date("d-m-Y H:i");
 echo "<br>";
 echo $day = date("l");
