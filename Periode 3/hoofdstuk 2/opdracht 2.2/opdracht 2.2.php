@@ -3,7 +3,7 @@
  * User: Jasper Rats
  * Date: 11-2-2020
  * Time: 12:00 PM
- * File: opdracht 2.2.php
+ * File: opdracht 5.2.2.php
  */
 ?>
 
