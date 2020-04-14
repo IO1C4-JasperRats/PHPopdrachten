@@ -1,9 +1,13 @@
 <?php
 include "../../../includes/header.php";
 include "../../../includes/menu.php";
-include "../../../includes/footer.php";
 
 ?>
+    <footer>
+    <?php
+    include "../../../includes/footer.php";
+    ?>
+    </footer>
     </body>
     </html>
 

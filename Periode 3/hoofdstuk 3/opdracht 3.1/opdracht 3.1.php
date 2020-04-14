@@ -4,6 +4,7 @@
     include "../../../includes/menu.php";
 
     ?>
+<main id="wrapper">
 <!-- uitwerking opdracht 3.1 -->
 <?php
 /* origineel verhaal */
@@ -41,6 +42,12 @@ echo "<br>";
 echo "<br>";
 echo $verhaal2;
 ?>
+</main>
+<footer>
+    <?php
+        include "../../../includes/footer.php"
+    ?>
+</footer>
 
 
 

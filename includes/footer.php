@@ -1,6 +1,22 @@
+<footer>
 <?php
-include "../../phpopdrachten/periode 3/hoofdstuk 3/variabelen.php";
+include "variabelen.php";
 
-    echo "<footer>". $year . " " . $name . "</footer>";
+    echo $year . " " . $name . " ";
 
+
+date_default_timezone_set("Europe/Amsterdam");
+
+$uur = date("H");
+
+if ($uur < 5) {
+    echo "goedennacht";
+} elseif ($uur < 12) {
+    echo "goedenochtend";
+} elseif ($uur < 17) {
+    echo "goedenmiddag";
+} elseif ($uur < 24) {
+    echo "goedenavond";
+}
 ?>
+</footer>
